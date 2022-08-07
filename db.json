@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": "TEST-SKU_00",
+      "in_stock": true,
+      "qty": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
