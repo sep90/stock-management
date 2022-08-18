@@ -9,6 +9,21 @@
       "id": "dingo_g20",
       "in_stock": true,
       "qty": 1000
+    },
+    {
+      "id": "dingo_g20",
+      "in_stock": true,
+      "qty": 0
+    },
+    {
+      "id": "dingo_g20_test_0",
+      "in_stock": true,
+      "qty": 3007
+    },
+    {
+      "id": "dingo_g20_test_1",
+      "in_stock": true,
+      "qty": 0
     }
   ],
   "profile": {
