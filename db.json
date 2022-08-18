@@ -4,6 +4,11 @@
       "id": "TEST-SKU_00",
       "in_stock": true,
       "qty": 3
+    },
+    {
+      "id": "dingo_g20",
+      "in_stock": true,
+      "qty": 1000
     }
   ],
   "profile": {
