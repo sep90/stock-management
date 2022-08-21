@@ -1,29 +1,29 @@
 {
   "products": [
     {
-      "id": "TEST-SKU_00",
+      "id": "test_sku_000",
       "in_stock": true,
       "qty": 3
     },
     {
-      "id": "dingo_g20",
-      "in_stock": true,
-      "qty": 1000
-    },
-    {
-      "id": "dingo_g20",
-      "in_stock": true,
+      "id": "test_sku_001",
+      "in_stock": false,
       "qty": 0
     },
     {
-      "id": "dingo_g20_test_0",
+      "id": "test_sku_002",
+      "in_stock": false,
+      "qty": -100
+    },
+    {
+      "id": "test_sku_003",
       "in_stock": true,
       "qty": 3007
     },
     {
-      "id": "dingo_g20_test_1",
+      "id": "test_sku_004",
       "in_stock": true,
-      "qty": 0
+      "qty": 10
     }
   ],
   "profile": {
